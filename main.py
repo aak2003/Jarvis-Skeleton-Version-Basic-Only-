@@ -82,7 +82,7 @@ def initialization():
             def wolfram1():
                 try:
                     if "calculate" in data.lower() or "solve" in data.lower(): 
-                        app_id = "W5823V-UU23UR26LY" 
+                        app_id = "Your Wolframalpha api key" 
                         client = wf.Client(app_id) 
     
                         indx = data.lower().split().index('calculate') 
