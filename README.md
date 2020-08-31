@@ -4,3 +4,4 @@ You need to enable your email for third party apps to access it to use the email
 Change city details in weathers.py<br /> 
 Change Name and Full name in main.py<br /> 
 The wakeword list elements are based on trial and error<br /> 
+Change the wolframalpha api key in main.py
